@@ -1,4 +1,4 @@
-# Lab 3 -- Wireshark Lab
+# Lab 3 – Wireshark
 
 ## Goals
 
