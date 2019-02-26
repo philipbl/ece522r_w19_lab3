@@ -14,9 +14,9 @@ We will be using the Wireshark Labs from the authors of the book Computer Networ
 
 ## Requirements
 
-- [ ] Finish [Getting Started](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v7.0.pdf) lab and answer the questions at the bottom
-- [ ] Finish [HTTP](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v7.0.pdf) lab and answer the questions at the bottom
-- [ ] Finish [802.11](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_802.11_v7.0.pdf) lab and answer the questions at the bottom
+- [ ] Finish [Getting Started](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v7.0.pdf) lab and answer the questions at the bottom. Answer questions 1 - 4 under the "What to hand in" heading. For question 4, you can just print to PDF.
+- [ ] Finish [HTTP](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v7.0.pdf) lab and answer questions 1 - 19.
+- [ ] Finish [802.11](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_802.11_v7.0.pdf) lab and answer questions 1 - 16.
 
 
 ## Troubleshooting
